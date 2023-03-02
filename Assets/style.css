@@ -1,0 +1,25 @@
+.past {
+  background-color: #d3d3d3;
+}
+
+.present {
+  background-color: #ff6961;
+}
+
+.future {
+  background-color: #77dd77;
+}
+
+p {
+  color: #77dd77;
+  font-size: xx-large;
+  font-weight: bolder;
+}
+
+body {
+  background-color: rgb(97, 8, 241);
+}
+
+h1 {
+  color: #77dd77;
+}
